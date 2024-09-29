@@ -45,7 +45,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SnailDog-lua/botlaba
    ```
 
 2. Установите зависимости:
